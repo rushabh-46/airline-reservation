@@ -4,6 +4,6 @@ module.exports = {
     },
     mongoose: {
         url: process.env.MONGO_URL,
-        test_url: process.env.MONGO_TEST_URL,
+        testUrl: process.env.MONGO_TEST_URL,
     }
 }
