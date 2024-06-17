@@ -1,5 +1,5 @@
 
-### Instructions to run the server
+## Instructions to run the server
 Clone this repository and follow the below instructions to run the server locally.
 
 1. Create a .env file in the root directory and add the following variables:
@@ -23,10 +23,17 @@ npm start
 ```
 
 
-### Instructions to run the tests
+
+## Instructions to run the tests
 
 1. To run the tests and create the coverage, run the following command
 
 ```
 npm test
 ```
+
+
+
+## API Documentation
+
+Once you successfully run the server locally (say port 3000), you can find the API documentation on http://localhost:3000/api-docs.
