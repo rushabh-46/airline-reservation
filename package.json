@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "test": "PORT=3002 TESTING=1 jest --coverage --detectOpenHandles"
   },
   "keywords": [],
